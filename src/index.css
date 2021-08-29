@@ -32,5 +32,17 @@ button {
 .extra-btn {
   width: 5em;
   height: 2em;
-  margin: 10px
+  margin: 10px;
+}
+
+.gh-btn {
+  border-color: black;
+  border-radius: 50%;
+  height: auto;
+  background-color: black;
+}
+
+img {
+  max-width: 90%;
+  max-height: 90%;
 }
